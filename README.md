@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hey, I'm FSiRU
 
-<!--
-**FSiRU/FSiRU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+Full-stack developer experienced in Python, JavaScript, PHP, and SQL with frontend skills in HTML & CSS. Currently mastering **Java** to deepen my understanding of object-oriented programming and enterprise development.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Category | Technologies |
+|----------|-------------|
+| **Currently Learning** | Java ☕️ |
+| **Proficient** | Python, JavaScript, PHP, SQL, HTML, CSS |
+| **Tools** | Git, VS Code |
+
+## 📈 GitHub Stats
+![FSiRU's GitHub stats](https://github-readme-stats.vercel.app/api?username=FSiRU&show_icons=true&theme=default)
+
+## 🤝 Let's Connect
+- Open to collaboration on interesting projects
+- Always happy to connect with fellow developers
+
+---
+
+*Building something awesome, one commit at a time.*
